@@ -3,7 +3,7 @@ express-heatlamp
 
 Dynamically set cache-control to varying values to prevent bandwidth hogging as all resource caches expire.
 
-1. Install: `npm install --save express-heatlamp;`
+1. Install: `npm install --save express-heatlamp`
 
 2. Require: `var heatlamp = require("express-heatlamp");`
 
