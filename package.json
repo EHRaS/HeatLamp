@@ -2,7 +2,7 @@
   "author": "Jack Kingsman <jack.kingsman@gmail.com>",
   "name": "express-heatlamp",
   "description": "Middleware for dynamic cache-control randomization",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "github.com/EHRaS/HeatLamp",
   "repository": {
     "type": "git",
