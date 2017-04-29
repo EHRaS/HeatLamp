@@ -1,6 +1,8 @@
 express-heatlamp
 =====================
 
+[![NPM](https://badge.fury.io/js/express-heatlamp.svg)]()
+
 Dynamically set cache-control to varying values to prevent bandwidth hogging as all resource caches expire.
 
 1. Install: `npm install --save express-heatlamp`
